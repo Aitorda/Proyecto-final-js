@@ -1,0 +1,5 @@
+[
+    {"nombre": "Ametzaroom", "precio":2000, "cantidadPersonas": 3, "cochera": "no cuenta con cochera"},
+    {"nombre": "Bideanroom", "precio":2500, "cantidadPersonas": 5, "cochera": "no cuenta con cochera"},
+    {"nombre": "Romaroom", "precio":1800, "cantidadPersonas": 7, "cochera": "cuenta con cochera"}
+]
